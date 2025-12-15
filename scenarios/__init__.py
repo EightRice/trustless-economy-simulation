@@ -1,0 +1,36 @@
+"""
+Predefined scenarios for testing specific hypotheses.
+"""
+from .examples import (
+    get_all_scenarios,
+    describe_scenario,
+    HIGH_PLATFORM_FEES,
+    MINIMAL_IMMEDIATE,
+    STRICT_QUORUM,
+    EXPENSIVE_ARBITRATION,
+    HOSTILE_MARKET,
+    HYPERGROWTH,
+    LOW_LIQUIDITY,
+    COMPARISON_BASELINE,
+    COMPARISON_HIGH_IMMEDIATE,
+    COMPARISON_LOW_IMMEDIATE,
+    REPUTATION_MATURITY,
+    MARKET_CONCENTRATION,
+)
+
+__all__ = [
+    "get_all_scenarios",
+    "describe_scenario",
+    "HIGH_PLATFORM_FEES",
+    "MINIMAL_IMMEDIATE",
+    "STRICT_QUORUM",
+    "EXPENSIVE_ARBITRATION",
+    "HOSTILE_MARKET",
+    "HYPERGROWTH",
+    "LOW_LIQUIDITY",
+    "COMPARISON_BASELINE",
+    "COMPARISON_HIGH_IMMEDIATE",
+    "COMPARISON_LOW_IMMEDIATE",
+    "REPUTATION_MATURITY",
+    "MARKET_CONCENTRATION",
+]
