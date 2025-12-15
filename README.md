@@ -284,6 +284,19 @@ The simulation uses only Python standard library:
 
 No external dependencies required.
 
+## Citation
+
+If you use this simulation in your research, please cite:
+
+```bibtex
+@article{trustless2024,
+  title={Incentive Alignment in Trustless Economies: A Game-Theoretic Simulation of Decentralized Marketplace Mechanisms},
+  author={Anonymous},
+  journal={arXiv preprint},
+  year={2024}
+}
+```
+
 ## License
 
-Part of the Homebase DAO project. See main repository license.
+MIT License
